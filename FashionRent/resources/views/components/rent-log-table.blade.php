@@ -2,7 +2,6 @@
     <table class="table table-bordered text-center">
         <thead>
             <tr>
-                <th class="col-sm-1">No.</th>
                 <th class="col-sm-1">User</th>
                 <th class="col-sm-2">Fashion</th>
                 <th class="col-sm-2">Rent Date</th>

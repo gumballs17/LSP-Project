@@ -13,16 +13,16 @@
 <body>
     <div class="common-style">
         <section id="navigasi-web" class="navigasi-web">
-            <nav class="navbar navbar-expand-lg">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container">
+                    <a class="navbar-brand" href="#">FASHION<span
+                            style="color: rgba(102, 200, 255, 0.80);">.ID</span></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#toggler"
                         aria-controls="toggler" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="toggler">
-                        <a class="navbar-brand" href="#">FASHION<span
-                                style="color: rgba(102, 200, 255, 0.80);">.ID</span></a>
-                        <ul class="navbar-nav nav-underline mx-auto">
+                        <ul class="navbar-nav ms-auto">
                             <li class="nav-item">
                                 <a class="nav-link" aria-current="page" href="#navigasi-web">HOME</a>
                             </li>
@@ -31,7 +31,7 @@
                             </li>
                         </ul>
                         <div class="button-container">
-                            <a href="login" class="btn btn-outline-dark custom-button">LOGIN</a>
+                            <a href="login" class="btn btn-outline-light custom-button">LOGIN</a>
                             <a href="register" class="btn btn-primary custom-button">REGISTER</a>
                         </div>
                     </div>
@@ -47,8 +47,7 @@
                             Unleash Your Style, Rent Your Fashion.
                         </h2>
                         <p class="typography-text">Welcome to our Fashion Rental platform, where style knows no
-                            boundaries. Discover a world of
-                            endless possibilities as you explore.
+                            boundaries. Discover a world of endless possibilities as you explore.
                         </p>
                         <div class="button-container-icon">
                             <button class="btn btn-primary custom-button-home" type="submit">Get Started</button>
@@ -61,15 +60,14 @@
             </div>
         </section>
 
-        <section id="service-web" class="service-web">
+        <section id="service-web" class="service-web bg-light">
             <div class="container">
                 <div>
                     <h2 class="typography-tittle-service">
                         Our Product
                     </h2>
                     <p class="typography-text-service">
-                        Welcome to our Fashion Rental platform, where style
-                        <br>knows no boundaries
+                        Welcome to our Fashion Rental platform, where style knows no boundaries
                     </p>
                 </div>
                 <div>
@@ -119,7 +117,7 @@
     </div>
 
     <section id="footer-web" class="footer-web">
-        <footer class="text-center text-lg-start costume-footer">
+        <footer class="text-center text-lg-start costume-footer bg-dark text-white">
             <div class="container">
                 <div class="text-center">
                     <h1 class="custome-big-footer">FASHION ID</h1>
