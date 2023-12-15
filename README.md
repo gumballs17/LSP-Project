@@ -17,34 +17,34 @@ RentFashion
    ```
 
 2. Masuk ke directory dan jalankan command berikut
-```bash
-    composer update
-```
-```bash
-    php artisan key:generate
-```
+   ```bash
+       composer update
+   ```
+   ```bash
+       php artisan key:generate
+   ```
 
 3. Buat Database dan configurasikan dengan file env.
-```bash
-    cp .env.example .env
-```
-```bash
-    php artisan migrate
-```
-```bash
-    php artisan migrate
-```
-```bash
-    php artisan db:seed
-```
-```bash
-    php artisan storage:link
-```
+   ```bash
+       cp .env.example .env
+   ```
+   ```bash
+       php artisan migrate
+   ```
+   ```bash
+       php artisan migrate
+   ```
+   ```bash
+       php artisan db:seed
+   ```
+   ```bash
+       php artisan storage:link
+   ```
 
 4. Jalankan proyek laravel
-```bash
-    php artisan serve
-```
+   ```bash
+       php artisan serve
+   ```
 
 
 **List Fitur:**
@@ -61,7 +61,7 @@ RentFashion
 11. Rent Log
 
 **Skema Project:**
-[Skema Project](https://drive.google.com/file/d/1EJVcdhgjzU19V91SdiabwU8v5rUsn4fz/view?usp=sharing)
+[Skema Database Project](https://drive.google.com/file/d/1EJVcdhgjzU19V91SdiabwU8v5rUsn4fz/view?usp=sharing)
 
 **Link Youtube:**
 [Link Youtube](https://youtu.be/JvOLiswXgVM)
