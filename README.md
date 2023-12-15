@@ -2,17 +2,33 @@
 
 <br />
 
-Run di CMD atau terminal:
+"
+Nama kelompok : 1. Irsyam Azizul Afda
+                2. Aebil Taskari Rusydi
 
-`create database rent-fashion`
+Nama Tim      : FashionID
 
-`composer install`
+Nama Projek   : RentFashion
 
-`cp .env.example .env` <- atur env
+List FItur    : 1. landing page 
+                2. login
+                3. logout
+                4. sign up
+                5. Dashboard
+                6. Cloths
+                7. Categories
+                8. Users
+                9. Rent
+                10. Return
+                11. Rent log
 
-`php artisan key:generate`
+Skema Project : https://drive.google.com/file/d/1EJVcdhgjzU19V91SdiabwU8v5rUsn4fz/view?usp=sharing
 
-`php artisan migrate:fresh --seed`
+Link Youtube  : https://youtu.be/JvOLiswXgVM
 
-`php artisan serve`
+
+
+
+
+"
 <br />
