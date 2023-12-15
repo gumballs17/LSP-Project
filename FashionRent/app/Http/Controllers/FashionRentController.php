@@ -25,7 +25,7 @@ class FashionRentController extends Controller
     public function store(Request $request)
     {
         $request['rent_date'] = Carbon::now()->toDateString();
-        $request['return_date'] = Carbon::now()->addDay()->toDateString();
+        $request['return_date'] = Carbon::now()->addDay(5)->toDateString();
 
         $fashion = Fashion::findOrFail($request->fashion_id)->only('status');
 
